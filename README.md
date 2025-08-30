@@ -1,5 +1,5 @@
 # YouTube Playlist Backup  
-A Python tool to back up YouTube playlists into structured Excel files using the YouTube Data API.  
+A Python tool to backup YouTube playlists into structured Excel files using the YouTube Data API.  
 
 ## About this project  
 This script connects to your YouTube account via **OAuth 2.0**, fetches all your playlists (including private), and saves them into a single Excel workbook.  
